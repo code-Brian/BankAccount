@@ -32,3 +32,6 @@ rickAccount = BankAccount(0.420, 69)
 mortyAccount = BankAccount(0.420, 69)
 
 rickAccount.deposit(5).deposit(17).deposit(4).withdraw(1).yield_interest().display_account_info()
+mortyAccount.deposit(50).deposit(690).withdraw(1).withdraw(2).withdraw(3).withdraw(4).yield_interest().display_account_info()
+
+# Ninja bonus!!!!
