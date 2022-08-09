@@ -1,6 +1,5 @@
 # Woohoo! We got this! :)
 
-
 # let's create the BankAccount class
 class BankAccount:
     # ! Class Attribute
