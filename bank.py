@@ -24,3 +24,6 @@ class BankAccount:
         if (self.balance > 0):
             self.balance = self.balance * self.int_rate
         return self.balance
+
+rickAccount = BankAccount(0.420, 69)
+mortyAccount = BankAccount(0.420, 69)
